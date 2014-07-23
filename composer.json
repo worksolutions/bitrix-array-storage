@@ -1,0 +1,21 @@
+{
+	"name": "dsxack/ws-bitrix-array-storage",
+	"description": "1C-Bitrix array storage repository",
+	"minimum-stability": "stable",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Pomiluyko Igor",
+			"email": "pomiluyko@worksolutions.ru"
+		},
+		{
+			"name": "Smotrov Dmitriy",
+			"email": "smotrov@worksolutions.ru"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"WS\\Bitrix\\ArrayStorage\\": "src"
+		}
+	}
+}
